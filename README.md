@@ -1,3 +1,5 @@
+I wrote about the process of producing the solutions in this repo [here on my website](https://rasgaard.github.io/posts/laerdal-nlp-case.html).
+
 # Proposed solution for NLP case interview at Laerdal
 
 This repository contains my proposed solution for the data science case at the second interview for the role as a data scientist at Laerdal Copenhagen.
